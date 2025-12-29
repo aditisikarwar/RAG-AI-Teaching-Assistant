@@ -150,11 +150,10 @@ os.environ["GEMINI_API_KEY"] = "your_gemini_api_key"
 
 ## 👨‍💻 Author
 
-**Mohammed Enayatullah Safwan**
+**Aditi Sikarwar**
 🎓 *National Institute of Technology, Durgapur*
-📧 [LinkedIn](https://www.linkedin.com/in/mdsafwan86/) | [GitHub](https://github.com/safwanig)
 
 
-> ✨ *“Transform your lectures into knowledge-driven conversations — powered by AI.”*
+>  *“Transform your lectures into knowledge-driven conversations — powered by AI.”*
 
 
