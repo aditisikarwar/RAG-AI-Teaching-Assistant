@@ -13,6 +13,7 @@
 
 This project turns your **teaching videos** into an **intelligent assistant** capable of answering questions based on their content.  
 It combines **offline transcription**, **semantic embeddings**, and **LLM reasoning** to make learning interactive and accessible anywhere — even offline.
+<img width="943" height="505" alt="image" src="https://github.com/user-attachments/assets/ca5e88f8-0871-4b69-9ec5-c64ddd4682d2" />
 
 ---
 
